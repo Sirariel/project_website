@@ -1,0 +1,14 @@
+#container{
+    background-color: aquamarine;
+    padding: 10px;
+    width: 50%;
+}
+#container .sc1{
+    background-color: blueviolet;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#container #s2 {
+    background-color: blanchedalmond;
+}
